@@ -106,29 +106,29 @@ body {
 }
 #wrap .control li:nth-child(1) {
   width: 20%;
-  background: url(/dist/images/icon-like.png) no-repeat center / 30%;
+  background: url(./images/icon-like.png) no-repeat center / 30%;
 }
 #wrap .control li:nth-child(1).liking {
-  background: url(/dist/images/icon-like-solid.png) no-repeat center / 30%;
+  background: url(./images/icon-like-solid.png) no-repeat center / 30%;
 }
 #wrap .control li:nth-child(2) {
   width: 20%;
-  background: url(/dist/images/icon-prev.png) no-repeat center / 30%;
+  background: url(./images/icon-prev.png) no-repeat center / 30%;
 }
 #wrap .control li:nth-child(3) {
   width: 20%;
-  background: url(/dist/images/icon-play.png) no-repeat center / 30%;
+  background: url(./images/icon-play.png) no-repeat center / 30%;
 }
 #wrap .control li:nth-child(3).playing {
-  background: url(/dist/images/icon-pause.png) no-repeat center / 30%;
+  background: url(./images/icon-pause.png) no-repeat center / 30%;
 }
 #wrap .control li:nth-child(4) {
   width: 20%;
-  background: url(/dist/images/icon-next.png) no-repeat center / 30%;
+  background: url(./images/icon-next.png) no-repeat center / 30%;
 }
 #wrap .control li:nth-child(5) {
   width: 20%;
-  background: url(/dist/images/icon-list.png) no-repeat center / 30%;
+  background: url(./images/icon-list.png) no-repeat center / 30%;
 }
 #wrap .list {
   width: 100vw;
